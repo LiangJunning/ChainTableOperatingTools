@@ -7,7 +7,6 @@
 
 int main()
 {
-	CTSetType( int)
     return 0;
 }
 
